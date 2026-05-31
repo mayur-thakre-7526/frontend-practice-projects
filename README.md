@@ -4,6 +4,8 @@ This repository contains all the frontend projects I build while learning web de
 
 ## HTML & CSS Projects
 
+| Project | Live Demo | Source Code |
+|----------|----------|----------|
 | Spotify Clone | [Live Demo](https://mayur-thakre-7526.github.io/spotify-clone-html-css/) | [GitHub Repo](https://github.com/mayur-thakre-7526/spotify-clone-html-css) |
 
 ## JavaScript Projects
