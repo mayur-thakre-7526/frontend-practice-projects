@@ -15,8 +15,6 @@ This repository contains all the frontend projects I build while learning web de
 |----------|----------|----------|
 | Simon Says Game | [Live Demo](https://mayur-thakre-7526.github.io/simon-says-game/) | [GitHub Repo](https://github.com/mayur-thakre-7526/simon-says-game) |
 
-Projects will be added here as I continue learning JavaScript.
-
 ---
 
 ### Current Learning Path
